@@ -1,0 +1,6 @@
+D:\22.11.5297\LatihanGit\LatihanGit\bin\Debug\LatihanGit.exe.config
+D:\22.11.5297\LatihanGit\LatihanGit\bin\Debug\LatihanGit.exe
+D:\22.11.5297\LatihanGit\LatihanGit\bin\Debug\LatihanGit.pdb
+D:\22.11.5297\LatihanGit\LatihanGit\obj\Debug\LatihanGit.csprojResolveAssemblyReference.cache
+D:\22.11.5297\LatihanGit\LatihanGit\obj\Debug\LatihanGit.exe
+D:\22.11.5297\LatihanGit\LatihanGit\obj\Debug\LatihanGit.pdb
